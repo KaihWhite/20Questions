@@ -1,0 +1,23 @@
+#Q     Is it a mammal?
+#Q     Does it have stripes?
+#A     Is it a zebra?
+#Q    does it lay eggs?
+#A    is it a platypus?
+#Q  Does it fly?
+#A  Is it a bat?
+#Q  Does it have two feet and two hands?
+#Q  Does it have fur?
+#A  Is it a chimpanzee?
+#A  Is it a Human?
+#A     Is it a lion?
+#Q     Is it a bird?
+#Q     Does it fly?
+#A     Is it an eagle?
+#A     Is it a penguin?
+#Q    is it a fungus?
+#A    is it a mushroom?
+#Q    is it a protist?
+#Q    is it animal like?
+#A    is it a protozoa?
+#A    is it a slime mold?
+#A     Is it a gila monster?
